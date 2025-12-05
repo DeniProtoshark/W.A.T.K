@@ -1,0 +1,13 @@
+{
+  "input_dir": "C:/Users/Protogen/Desktop/ARC/aw",
+  "output_dir": "C:/Users/Protogen/Desktop/21",
+
+  "html_dir": "html",
+  "css_dir": "css",
+  "js_dir": "js",
+  "img_dir": "img",
+
+  "remove_wayback_banner": true,
+  "remove_scripts": true,
+  "validate_links": false
+}
